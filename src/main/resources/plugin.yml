@@ -1,0 +1,4 @@
+name: SpeedMeter
+author: inao
+version: 1.0.0
+main: me.inao.plugin.timer.Main
